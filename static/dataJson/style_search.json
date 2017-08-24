@@ -1,0 +1,17 @@
+{
+	"tableData": [{
+	           "account_type":"黄金会员",
+	           "username":"小红",
+	           "account":456256,
+	           "buy_package":"儿童保健套餐",
+	           "date":"2016-12-23",
+	           "avaliable_date":"5",
+	           "edit_date":"2017-08-08 15:55:40",
+	           "accumulative_integral":16,
+	           "avaliable_integral":2,
+	           "avaliable_date":"5",
+	           "share":"晓敏，小红",
+	           "money":null,
+	           "deadline":"2017-9-1"
+	         }]
+}

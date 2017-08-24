@@ -1,0 +1,21 @@
+{
+	"data":{
+		"personal":{
+			"sex":"女",
+			"age":46,
+			"subordinate":"内科",
+			"job":"-",
+			"phone":"-"
+		},
+		"personal2":{
+			"visitSubordinate":"内科",
+			"disease":"口腔扁平苔廯,慢性唇炎，失眠",
+			"introduce":"毕业于成都中医药大学。曾跟随张晓云等四川省名中医学习。"
+		},
+		"personal3":{
+			"email":"-",
+			"nEmail":"未绑定"
+		},
+		"ptype":"普通门诊"	
+	}
+}

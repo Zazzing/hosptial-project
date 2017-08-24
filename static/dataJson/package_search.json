@@ -1,0 +1,11 @@
+{
+	"tableData": [{
+                 
+                 "style": "检查费",
+                 "name": "头疼",
+                 "relate":"",
+                 "price":"1,200",
+                 "department":"治疗室",
+                 "usestate":"true"
+               }]
+}

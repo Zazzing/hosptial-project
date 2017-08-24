@@ -1,0 +1,105 @@
+{
+    "adviceDatas":
+    [
+        {       
+          "id":"1",
+          "groupIndex":"001",
+            "dragName":"大蒜素注射液",
+            "days":"2",
+            "number":1,
+            "price":18.50
+        },
+        {  
+            "id":"2",     
+            "groupIndex":"002",
+            "dragName":"大蒜素注射液",
+            "days":"2",
+            "number":1,
+            "price":18.50
+        },
+        {      
+            "id":"3", 
+            "groupIndex":"003",
+            "dragName":"大蒜素注射液",
+            "days":"2",
+            "number":1,
+            "price":18.50
+        },
+        {      
+            "id":"4", 
+            "groupIndex":"004",
+            "dragName":"大蒜素注射液",
+            "days":"2",
+            "number":1,
+            "price":18.50
+        },
+        {      
+            "id":"5", 
+            "groupIndex":"005",
+            "dragName":"大蒜素注射液",
+            "days":"2",
+            "number":1,
+            "price":18.50
+        },
+        {       
+            "id":"6",
+            "groupIndex":"006",
+            "dragName":"大蒜素注射液",
+            "days":"2",
+            "number":1,
+            "price":18.50
+        }
+    ],
+  "tableDatas":
+    [
+        {
+          "type": "检查",
+          "deparment": "外科",
+          "address": "完璧式乳突术后耳纤维内镜检查",
+          "attention":"",
+          "prices":80
+        }, {
+          "type": "检查",
+          "deparment": "外科",
+          "address": "完璧式乳突术后耳纤维内镜检查",
+          "attention":"",
+          "prices":80
+        }, {
+          "type": "检查",
+          "deparment": "外科",
+          "address": "完璧式乳突术后耳纤维内镜检查",
+          "attention":"",
+          "prices":580
+        }, {
+          "type": "检查",
+          "deparment": "外科",
+          "address": "完璧式乳突术后耳纤维内镜检查",
+          "attention":"",
+          "prices":80
+        }, {
+          "type": "检查",
+          "deparment": "外科",
+          "address": "完璧式乳突术后耳纤维内镜检查",
+          "attention":"",
+          "prices":80
+        }, {
+          "type": "检查",
+          "deparment": "外科",
+          "address": "完璧式乳突术后耳纤维内镜检查",
+          "attention":"",
+          "prices":180
+        }, {
+          "type": "检查",
+          "deparment": "外科",
+          "address": "完璧式乳突术后耳纤维内镜检查",
+          "attention":"",
+          "prices":280
+        }, {
+          "type": "检查",
+          "deparment": "外科",
+          "address": "完璧式乳突术后耳纤维内镜检查",
+          "attention":"",
+          "prices":380
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+.reservation .el-menu-vertical-demo .el-menu-item,.Visdoctor .el-menu-vertical-demo .el-menu-item{
+        text-align: left;
+    }
+.Mrliu .h-content,.Visdoctor .h-content{
+		height: 700px;
+		margin-top: 1%;
+		
+	}
+.Mrliu .content-left,.Visdoctor .content-left{
+    height: 700px;
+    width: 15%;
+    float: left;
+    background-color: #ffffff;
+    margin-top: 1px;
+	}
+.Mrliu .content-left .el-col-4,.Visdoctor .content-left .el-col-4 {
+    width: 100%;
+}
+.Mrliu .content-right-top,.Visdoctor .content-right-top{
+	padding-bottom: 1%;
+    border-bottom: 2px solid #f1f1f1;
+}
+.Mrliu .content-right,.Visdoctor .content-right{
+	height: 100%;
+    float: left;
+    width: 83%;
+    margin-left: 1%;
+    background-color: #ffffff;
+}
+/*.Visdoctor .el-col-2{
+    clear: none;
+ }
+ .Mrliu .el-col-4{
+    clear: none;
+ }*/
